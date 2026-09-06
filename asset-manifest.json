@@ -43,11 +43,11 @@
     "models-v3/02-atelier.glb",
     "models-v3/03-motion.glb",
     "models-v3/04-collection.glb",
-    "models-v3/05-workbench.glb",
-    "models-v3/06-workflow.glb",
     "models-v3/07-growth.glb",
     "models-v3/08-people.glb",
     "models-v3/09-action.glb",
-    "models-v3/10-horizon.glb"
+    "models-v3/10-horizon.glb",
+    "models-v4/05-workbench.glb",
+    "models-v4/06-workflow.glb"
   ]
 }
